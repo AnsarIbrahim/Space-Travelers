@@ -95,7 +95,7 @@ Clone this repository to your desired folder:
 git clone https://github.com/AnsarIbrahim/space-travelers.git
 <br>
 
-cd `space-travelers-pro.git`
+cd `space-travelers.git`
 
 ### Install
 
