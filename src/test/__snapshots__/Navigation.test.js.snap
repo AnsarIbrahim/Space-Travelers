@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation Component renders correctly without unexpected changes 1`] = `
+<nav>
+  <img
+    alt=""
+    src="planet.png"
+  />
+  <h3>
+    Space Travelers' Hub
+  </h3>
+  <li
+    className="links"
+  >
+    <a
+      aria-current="page"
+      className="link active"
+      href="/"
+      onClick={[Function]}
+    >
+      <span
+        className="my-link"
+      >
+        Rockets
+      </span>
+    </a>
+  </li>
+  <a
+    className=""
+    href="/missions"
+    onClick={[Function]}
+  >
+    <span
+      className="my-link"
+    >
+      Missions
+    </span>
+     
+  </a>
+  <span
+    className="ver-line"
+  />
+  <a
+    className=""
+    href="/myprofile"
+    onClick={[Function]}
+  >
+    <span
+      className="my-link"
+    >
+      My Profile
+    </span>
+  </a>
+</nav>
+`;
