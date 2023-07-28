@@ -33,7 +33,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Space-Traveler] <a name="about-project"></a>
+# 📖 Space-Traveler <a name="about-project"></a>
 
 "Space-Traveler" is a web application that allows space enthusiasts to explore information about space missions, rockets, and related data. Users can access details about past, ongoing, and future missions, as well as specifications and history of rockets used in space exploration. The application may offer interactive features like reserving rockets and visualizations to enhance the user experience. It aims to engage users with space-related content and foster a sense of community among space enthusiasts.
 
