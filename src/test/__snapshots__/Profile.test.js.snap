@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="pro-container"
+>
+  <div
+    className="dragons-list"
+  >
+    <h4
+      className="profile-header"
+    >
+      My Rockets
+    </h4>
+    <table
+      className="profile_table"
+    >
+      <tbody
+        className="body"
+      >
+        <p>
+          You have no reserved rockets
+        </p>
+      </tbody>
+    </table>
+  </div>
+  <div
+    className="dragons-list"
+  >
+    <h4
+      className="profile-header"
+    >
+      My Missions
+    </h4>
+    <table
+      className="profile_table"
+    >
+      <tbody
+        className="body"
+      >
+        <p>
+          You have no reserved rockets
+        </p>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;

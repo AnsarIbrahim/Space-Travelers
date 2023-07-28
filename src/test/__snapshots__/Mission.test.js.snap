@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Missions page renders correctly 1`] = `
+<div
+  className="mission-container"
+>
+  <table>
+    <thead
+      className="header"
+    >
+      <th>
+        Mission
+      </th>
+      <th>
+        Thaicom
+      </th>
+      <th>
+        Status
+      </th>
+    </thead>
+  </table>
+</div>
+`;
