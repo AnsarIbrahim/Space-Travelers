@@ -69,7 +69,7 @@ In summary, Space-Traveler is a platform that caters to space enthusiasts, provi
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](soon)
+- [Live Demo Link](https://space-traveler-ansaribrahim.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
